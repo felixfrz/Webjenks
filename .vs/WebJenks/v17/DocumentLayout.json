@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\olado\\Desktop\\ASP.NET\\WebJenks\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB04D3F8-E025-4D91-B867-F5234BE26A5C}|NewFolder1{EB04D3F8-E025-4D91-B867-F5234BE26A5C}|C:\\Users\\olado\\Desktop\\ASP.NET\\WebJenks\\deployapi.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB04D3F8-E025-4D91-B867-F5234BE26A5C}|NewFolder1{EB04D3F8-E025-4D91-B867-F5234BE26A5C}|solutionrelative:deployapi.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B3E8F-8E3D-44DC-9D64-126361E30EC4}|WebJenks\\WebJenks.csproj|c:\\users\\olado\\desktop\\asp.net\\webjenks\\webjenks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B3E8F-8E3D-44DC-9D64-126361E30EC4}|WebJenks\\WebJenks.csproj|solutionrelative:webjenks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deployapi.yaml",
+              "DocumentMoniker": "C:\\Users\\olado\\Desktop\\ASP.NET\\WebJenks\\deployapi.yaml",
+              "RelativeDocumentMoniker": "deployapi.yaml",
+              "ToolTip": "C:\\Users\\olado\\Desktop\\ASP.NET\\WebJenks\\deployapi.yaml",
+              "RelativeToolTip": "deployapi.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-05T21:07:05.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olado\\Desktop\\ASP.NET\\WebJenks\\WebJenks\\Program.cs",
+              "RelativeDocumentMoniker": "WebJenks\\Program.cs",
+              "ToolTip": "C:\\Users\\olado\\Desktop\\ASP.NET\\WebJenks\\WebJenks\\Program.cs",
+              "RelativeToolTip": "WebJenks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:34:03.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
